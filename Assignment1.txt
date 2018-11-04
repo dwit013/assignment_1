@@ -1,0 +1,10 @@
+P=float(input("Principle="))
+R=float(input("Rate="))
+T=float(input("Time in years="))
+N=float(input("No of times compounded per year="))
+
+m=N*T
+
+A= P*((1+(R/N))** m)
+
+print("The total amount is :",A)
