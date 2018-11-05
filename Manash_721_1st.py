@@ -1,6 +1,6 @@
 """
-Name: Tayouth Malla
-Roll no: 743
+Name: Manash singh
+Roll no: 721
 """
 prin=int(input("Enter principle amount"))
 time=int(input("Enter number of year"))
